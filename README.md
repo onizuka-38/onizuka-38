@@ -30,7 +30,7 @@
 ### Crypto & Blockchain (Always analyzing)
 
   <!--Bitcoin-->
-  <img src="https://img.shields.io/badge/Bitcoin-#F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+  ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
   <!--ethereum-->
   <img src="https://img.shields.io/badge/ethereum-#3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
   <br/>
