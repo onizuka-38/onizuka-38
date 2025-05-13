@@ -18,7 +18,7 @@
 ###
 
 <h2 align="left">I code with</h2>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 ###
 
 <div align="left">
