@@ -24,7 +24,7 @@
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--stmicroelectronics-->
-  <img src="https://img.shields.io/badge/stmicroelectronics-#03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <br/>
 
 ### Crypto & Blockchain (Always analyzing)
@@ -32,7 +32,7 @@
   <!--Bitcoin-->
   ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
   <!--ethereum-->
-  <img src="https://img.shields.io/badge/ethereum-#3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
   <br/>
   <br/>
 
