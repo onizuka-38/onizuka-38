@@ -1,8 +1,9 @@
-<h1 align="left">Baby Developer</h1>
+<h1 align="left">New Developer</h1>
 
 ###
 
 <p align="left">My name is Donghyeon Park.<br>I am interested in development.<br>I want to learn various developing languages.</p>
+<h3 align="left">I want to be Great Developer</h3>
 
 ###
 
