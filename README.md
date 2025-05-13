@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Donghyeon Park.<br>I am interested in development.<br>I want to learn various developing languages.</p>
-<h3 align="left">I want to be Great Developer</h3>
+<h4 align="left">I want to be Great Developer</h4>
 
 ###
 
