@@ -32,7 +32,8 @@
   <!--Bitcoin-->
   ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
   <!--ethereum-->
-  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+  ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
   <br/>
   <br/>
 
