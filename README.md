@@ -32,13 +32,12 @@
 <div align=center><h1>Crypto & Blockchain (Always analyzing)</h1></div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-  ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
-  
-</div>
-    <br/>
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)<br/>
+  ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
+  <br/>
+</div>
 
 
 <div align=center><h1>🤔 Github Stats</h1></div>
@@ -52,5 +51,3 @@
 </div>
 
 ###
-
-
