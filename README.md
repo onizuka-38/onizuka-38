@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Donghyeon Park.<br>I am interested in development.<br>I want to learn various developing languages.</p>
+<p align="left">My name is Daniel Park.<br>I am interested in development.<br>I want to learn various developing languages.</p>
 <h4 align="left">I want to be Great Developer</h4>
 
 <div align=center><h1>📚 STACKS</h1></div>
