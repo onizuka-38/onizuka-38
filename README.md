@@ -5,6 +5,10 @@
 <p align="left">
   안녕하세요! 저는 <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br>
   다양한 기술 스택에 흥미를 가지고 있으며, 실용적인 문제를 코드로 해결하는 것을 즐깁니다.<br><br>
+  
+<p align="left">
+  Hello! I'm Daniel Park, a developer focused on <strong>data analysis using Python</strong>.<br>
+  I enjoy solving real-world problems with code and continuously learning new technologies.<br><br>
 
   💡 <strong>주요 역량</strong><br>
   • Python, Pandas, Numpy, Matplotlib, scikit-learn 기반 데이터 분석<br>
