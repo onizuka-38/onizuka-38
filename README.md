@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=300&section=header&text=Welcome%20to-nl-Park's%20github)
 
-<h1 align="left">👋 New Developer: Daniel Park</h1>
+<h1 align="left">👋 Developer: Daniel Park</h1>
 
 <p align="left">
-  안녕하세요! 저는 <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br>
-  다양한 기술 스택에 흥미를 가지고 있으며, 실용적인 문제를 코드로 해결하는 것을 즐깁니다.<br><br>
+  안녕하세요! Daniel Park 입니다.<br>
+  저는 <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br><br>
   
 <p align="left">
   Hello! I'm Daniel Park, a developer focused on <strong>data analysis using Python</strong>.<br>
