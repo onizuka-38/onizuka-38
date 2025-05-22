@@ -59,14 +59,12 @@
 <br>
 
 
-<div align=center><h1>🤔 Github Stats</h1></div>
+<div align="center"><h1>🤔 Github Stats</h1></div>
 
-<div align=center>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onizuka-38&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onizuka-38&cache_seconds=21600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&layout=compact&cache_seconds=21600" height="180" />
 </div>
+
 
 
