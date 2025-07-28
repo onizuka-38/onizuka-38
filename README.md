@@ -42,7 +42,7 @@
 ---
 
 ### 💻 Language & Web
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -50,21 +50,21 @@
 </div>
 
 ### ⚙️ Framework
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
 ### 🗃️ DBMS
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-447900?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
 ### 📊 Data Science
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
@@ -72,7 +72,7 @@
 </div>
 
 ### 💡 AI
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/DeeepLearning(tensorflow)-ff00ff?style=for-the-badge&logo=DeeepLearning&logoColor=black">
   <img src="https://img.shields.io/badge/MachineLearning(sklearn)-55ff55?style=for-the-badge&logo=MachineLearning&logoColor=white">
   <img src="https://img.shields.io/badge/LLM-55ff55?style=for-the-badge&logo=LLM&logoColor=white">
@@ -81,12 +81,12 @@
 </div>
 
  ### WEB programming
-<div align="center"> 
+<div "> 
   <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
 ### C
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 </div>
 
