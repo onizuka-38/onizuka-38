@@ -21,7 +21,9 @@
 
   <br>
 
-
+<div align="center">
+  <p>Link</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
