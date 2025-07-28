@@ -21,11 +21,7 @@
 
   <br>
 
-<div align="center">
-  <h1>👋 안녕하세요! AI와 기술을 탐구하는 개발자입니다.</h1>
-  <p>AI 융합 기술부터 블록체인까지, 새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
-  <p>프로필을 방문해주셔서 감사합니다!</p>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
