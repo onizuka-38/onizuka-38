@@ -26,7 +26,7 @@
 </div>
 
 <div >
-  <h3>공부일지 <a href="https://github.com/comlec/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>공부일지 <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
   <h3>1st TEAM PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[JIKFARM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
   <h3>2nd TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
 </div>
