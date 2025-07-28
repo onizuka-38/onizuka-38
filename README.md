@@ -21,15 +21,16 @@
 
   <br>
 
+---
+
+### 🚀 Projects & Repositories
 <div align="center">
-  <p>Link</p>
+  <h3>KDT 과정 공부일지 <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>1st Team Project (JikFarm) <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/JikFarm-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>2nd Team Project (준비중) <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/준비중-34A853?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
 </div>
 
-<div align="center">
-  <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/1st_Project-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/2nd_Project-34A853?style=for-the-badge&logo=github&logoColor=black"/></a>
-</div>
+---
 
 ---
 
@@ -49,10 +50,11 @@
 
 ---
 
-### 📊 GitHub 통계 (GitHub Stats)
+<div align="center"><h1>🤔 Github Stats</h1></div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onizuka-38&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onizuka-38&cache_seconds=21600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&layout=compact&cache_seconds=21600" height="180" />
 </div>
 
 
