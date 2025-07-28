@@ -19,10 +19,12 @@
 
   📈 항상 배우고 성장하며, 더 나은 개발자가 되기 위해 노력 중입니다.
 
-  <div align=center><h1>Link</h1></div>
-### 공부일지 <a href="https://github.com/comlec/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st PERSONAL PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[JIKFARM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+<div align="center">
+  <h1>Link</h1>
+  <h3>공부일지 <a href="https://github.com/comlec/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>1st PERSONAL PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[JIKFARM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
