@@ -21,93 +21,40 @@
 
   <br>
 
-  <div align="center">
-  <h1>Link</h1>
+<div align="center">
+  <h1>👋 안녕하세요! AI와 기술을 탐구하는 개발자입니다.</h1>
+  <p>AI 융합 기술부터 블록체인까지, 새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
+  <p>프로필을 방문해주셔서 감사합니다!</p>
 </div>
-
-<div >
-  <h3>공부일지 <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
-  <h3>1st TEAM PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[JIKFARM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
-  <h3>2nd TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
-</div>
-
-
 
 <div align="center">
-  <h1>📚 STACKS</h1>
+  <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/1st_Project-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/2nd_Project-34A853?style=for-the-badge&logo=github&logoColor=black"/></a>
 </div>
+
+---
+
+### 🛠️ 기술 스택 (Tech Stack)
+
+| Category | Skills |
+| :---: | --- |
+| **Language** | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **AI/Data Science** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"> <img src="https://img.shields.io/badge/Ollama-2396F3?style=for-the-badge&logo=Ollama&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"> |
+| **Frontend** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |
+| **Backend** | <img src="https://img.shields.io/badge/JSP-24292E?style=for-the-badge&logo=EclipseIDE&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> |
+| **DBMS** | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> |
+| **Blockchain** | <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"/> |
+| **Embedded** | <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> |
 
 <br>
 
+---
 
-
-### 💻 Language & Web
-<div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-### ⚙️ Framework
-<div >
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
-</div>
-
-### 🗃️ DBMS
-<div >
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-447900?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
-
-### 📊 Data Science
-<div >
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div>
-
-### 💡 AI
-<div >
-  <img src="https://img.shields.io/badge/DeeepLearning(tensorflow)-ff00ff?style=for-the-badge&logo=DeeepLearning&logoColor=black">
-  <img src="https://img.shields.io/badge/MachineLearning(sklearn)-55ff55?style=for-the-badge&logo=MachineLearning&logoColor=white">
-  <img src="https://img.shields.io/badge/LLM-55ff55?style=for-the-badge&logo=LLM&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-F7DF1E?style=for-the-badge&logo=HuggingFace&logoColor=black">
-  <img src="https://img.shields.io/badge/Ollama-55ff55?style=for-the-badge&logo=Ollama&logoColor=white">
-</div>
-
- ### WEB programming
-<div "> 
-  <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
-</div>
-
-### C
-<div>
-  <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-</div>
-
-<br>
-
-<div align=center><h1>Crypto & Blockchain (Always analyzing)</h1></div>
-
+### 📊 GitHub 통계 (GitHub Stats)
 <div align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"/>
-</div>
-
-<br>
-
-
-<div align="center"><h1>🤔 Github Stats</h1></div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onizuka-38&cache_seconds=21600" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&layout=compact&cache_seconds=21600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onizuka-38&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onizuka-38&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 
