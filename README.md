@@ -48,12 +48,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
 ### 🗃️ DBMS
 <div align="center">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-447900?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
 ### 📊 Data Science
@@ -64,7 +66,21 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
-### 💡 ETC
+### 💡 AI
+<div align="center">
+  <img src="https://img.shields.io/badge/DeeepLearning(tensorflow)-ff00ff?style=for-the-badge&logo=DeeepLearning&logoColor=black">
+  <img src="https://img.shields.io/badge/MachineLearning(sklearn)-55ff55?style=for-the-badge&logo=MachineLearning&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM-55ff55?style=for-the-badge&logo=LLM&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-F7DF1E?style=for-the-badge&logo=HuggingFace&logoColor=black">
+  <img src="https://img.shields.io/badge/Ollama-55ff55?style=for-the-badge&logo=Ollama&logoColor=white">
+</div>
+
+ ### WEB programming
+<div align="center"> 
+  <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
+</div>
+
+### C
 <div align="center">
   <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 </div>
