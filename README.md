@@ -4,11 +4,8 @@
 
 <p align="left">
   안녕하세요! Daniel Park 입니다.<br>
-  저는 <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br><br>
-  
-<p align="left">
-  Hello! I'm Daniel Park, a developer focused on <strong>data analysis using Python</strong>.<br>
-  I enjoy solving real-world problems with code and continuously learning new technologies.<br><br>
+  <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br>
+  저는 의학공학을 전공했고, 전공수업에서 C언어를 공부하였습니다.(ST)
 
   💡 <strong>주요 역량</strong><br>
   • Python, Pandas, Numpy, Matplotlib, scikit-learn 기반 데이터 분석<br>
