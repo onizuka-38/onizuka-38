@@ -8,6 +8,7 @@
   저는 의학공학을 전공했고, Python을 메인으로 활용하고 C언어도 학습했습니다.<br>
   
   •	KDT 기업맞춤형 AI-X 교육 824h (2025.04.07~09.02)도 수료했습니다.<br>
+  
 
   💡 <strong>주요 역량</strong><br>
   • Python, Pandas, Numpy, Matplotlib, scikit-learn 기반 데이터 분석<br>
