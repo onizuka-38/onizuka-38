@@ -3,18 +3,19 @@
 <h1 align="left">👋 Developer: Daniel Park</h1>
 
 <p align="left">
-  안녕하세요! Daniel Park 입니다.<br>
+  안녕하세요! 박동현입니다.<br>
   <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br>
-  저는 의학공학을 전공했고, 전공수업에서 C언어를 공부하였습니다.(ST)
+  저는 의학공학을 전공했고, Python을 메인으로 활용하고 C언어도 학습했습니다.
 
   💡 <strong>주요 역량</strong><br>
   • Python, Pandas, Numpy, Matplotlib, scikit-learn 기반 데이터 분석<br>
   • HTML, CSS, JavaScript를 활용한 웹 프론트엔드<br>
   • Flask, Django 등의 웹 백엔드 프레임워크<br>
   • Oracle, MySQL 데이터베이스 활용<br>
+  • OpenAI, Ollama 를 활용한 LLM 작업<br>  
   • STM32 기반 임베디드 시스템 활용 경험<br><br>
 
-  📈 항상 배우고 성장하며, 더 나은 개발자가 되기 위해 노력 중입니다.
+  항상 배우고 성장하며, 더 나은 개발자가 되기 위해 노력 중입니다.
 
   <br>
 
