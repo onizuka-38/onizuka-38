@@ -50,13 +50,6 @@
 
 <br>
 
-### Crypto & Blockchain
-<div align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"/>
-</div>
-
 <br>
 
 ---
