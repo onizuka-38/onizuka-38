@@ -14,7 +14,7 @@
   • HTML, CSS, JavaScript를 활용한 웹 프론트엔드<br>
   • Flask, Django 등의 웹 백엔드 프레임워크<br>
   • Oracle, MySQL 데이터베이스 활용<br>
-  • OpenAI, Ollama 를 활용한 LLM 작업<br>  
+  • OpenAI, Ollama 를 활용한 LLM 작업<br>
   • STM32 기반 임베디드 시스템 활용 경험<br><br>
 
   항상 배우고 성장하며, 더 나은 개발자가 되기 위해 노력 중입니다.
