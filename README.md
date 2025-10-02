@@ -26,7 +26,7 @@
 
 ### 🚀 Projects & Repositories
 <div align="center">
-  <h3>KDT 과정 공부일지 <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+  <h3>공부일지 <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/공부일지-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
   <h3>1st Team Project (JikFarm) <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/JikFarm-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
   <h3>2nd Team Project (ChillTuna) <a href=https://github.com/cwal8202/Chill_Tuna><img src="https://img.shields.io/badge/ChillTuna-34A853?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
 </div>
@@ -46,6 +46,7 @@
 | **Frontend** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |
 | **Backend** | <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> |
 | **DBMS** | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> |
+| **Server** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> |
 | **Embedded** | <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> |
 
 <br>
