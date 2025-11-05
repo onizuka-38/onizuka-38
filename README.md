@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=300&section=header&text=Welcome%20to-nl-Park's%20github)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=300&section=header&text=Welcome%20to-nl-Park's%20github
+![Image](https://github.com/user-attachments/assets/528b6874-54dc-40c9-8486-d5626d6f940a)
 
 <h1 align="left">👋 Developer: Daniel Park</h1>
 
