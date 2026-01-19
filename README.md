@@ -11,8 +11,8 @@
   현재는 Python을 메인으로 활용합니다.<br>
 
   Dacon 및 AI 대회 참가 및 수상 다수  
-  •	KDT 기업맞춤형 AI-X 교육 824h (25.04~25.09) 수료<br><br>
-  •	Oracle Healthcare Project (25.10~25.11) 수료<br><br>
+  •	KDT 기업맞춤형 AI-X 교육 824h (25.04 ~ 25.09) 수료<br><br>
+  •	Oracle Healthcare Project (25.10 ~ 25.11) 수료<br><br>
   
 
   💡 <strong>주요 역량</strong><br>
