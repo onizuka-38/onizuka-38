@@ -8,7 +8,7 @@
   안녕하세요! 박동현입니다.<br>
   <strong>Python을 활용한 데이터 분석</strong>을 중심으로 다양한 언어와 프레임워크를 공부하고 있는 개발자입니다.<br>
   저는 의공학을 전공했고 C언어를 활용하는 임베디드 개발자였습니다.<br>
-  현재는 Python을 메인으로 활용하는 ML / DL engineer로 일하고 있습니다..<br>
+  현재는 Python을 메인으로 활용하는 ML / DL engineer로 일하고 있습니다.<br><br>
 
 
   Dacon 및 AI 대회 참가 및 수상 다수  <br>
