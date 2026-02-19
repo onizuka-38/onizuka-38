@@ -6,21 +6,23 @@
 
 <p align="left">
   Hello! I'm <strong>Donghyeon Park</strong>.<br>
-  I am a developer dedicated to <strong>data analysis and machine learning</strong>, constantly exploring diverse languages and frameworks.<br>
-  With a background in Biomedical Engineering, I began my career as an embedded developer using C, and I am currently working as an <strong>ML / DL Engineer</strong> primarily utilizing Python.<br><br>
+  I build <strong>data-driven ML/DL solutions</strong>—from dataset analysis and modeling to deployment-ready pipelines.<br>
+  With a background in Biomedical Engineering, I started with <strong>embedded C (STM32)</strong> and now work primarily as an <strong>ML/DL Engineer</strong> using <strong>Python</strong>.<br><br>
 
-  🏆 <strong>Achievements & Experience</strong><br>
-  • Multiple awards and participations in Dacon and various AI competitions<br>
-  • Completed KDT Enterprise-Tailored AI-X Program (824h, Apr 2025 – Sep 2025)<br>
-  • Completed Oracle Healthcare Project (Oct 2025 – Nov 2025)<br><br>
+  🏆 <strong>Highlights</strong><br>
+  • Participated in multiple AI competitions (Dacon, etc.) with awards and strong results<br>
+  • Completed <strong>KDT Enterprise-Tailored AI-X Program</strong> (824h, Apr 2025 – Sep 2025)<br>
+  • Built an <strong>Oracle Healthcare Project</strong> (Oct 2025 – Nov 2025)<br><br>
 
-  💡 <strong>Core Competencies</strong><br>
-  • <strong>Data Science:</strong> Data analysis based on Python, Pandas, Numpy, Matplotlib, and Scikit-learn<br>
-  • <strong>Web Development:</strong> Frontend (HTML, CSS, JavaScript) & Backend (Flask, Django)<br>
-  • <strong>Database:</strong> Experience with Oracle and MySQL<br>
-  • <strong>AI & LLM:</strong> LLM implementation using OpenAI and Ollama<br>
-  • <strong>Embedded Systems:</strong> Hands-on experience with STM32-based systems<br>
+  💡 <strong>Skills</strong><br>
+  • <strong>Data & ML:</strong> Python, Pandas, NumPy, Matplotlib, scikit-learn<br>
+  • <strong>DL:</strong> Training/validation pipelines, experimentation, evaluation (PyTorch/TensorFlow)<br>
+  • <strong>DB:</strong> Oracle, MySQL<br>
+  • <strong>LLM:</strong> Building LLM apps with OpenAI and Ollama<br>
+  • <strong>Embedded:</strong> STM32-based systems (C)<br><br>
+
 </p>
+
 
 ---
 
