@@ -5,9 +5,9 @@
 
 
 <p align="left">
-  Hello! I'm <strong>Donghyeon Park</strong>.<br>
-  I build <strong>data-driven ML/DL solutions</strong>—from dataset analysis and modeling to deployment-ready pipelines.<br>
-  With a background in Biomedical Engineering, I started with <strong>embedded C (STM32)</strong> and now work primarily as an <strong>ML/DL Engineer</strong> using <strong>Python</strong>.<br><br>
+  Hello! I'm <strong>Donghyun Park</strong>.<br>
+  I am a developer dedicated to <strong>data analysis and machine learning</strong>, constantly exploring diverse languages and frameworks.<br>
+  With a background in Biomedical Engineering, I began my career as an embedded developer using C, and I am currently working as an <strong>ML / DL Engineer</strong> primarily utilizing Python.<br><br>
 
   🏆 <strong>Highlights</strong><br>
   • Participated in multiple AI competitions (Dacon, etc.) with awards and strong results<br>
