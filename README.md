@@ -30,17 +30,6 @@
 
 ---
 
-### 🚀 Projects & Repositories
-<div align="center">
-  <h3>Study <a href="https://github.com/onizuka-38/ai_x"><img src="https://img.shields.io/badge/Study-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
-  <h3>1st Team Project (JikFarm) <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/JikFarm-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
-  <h3>2nd Team Project (ChillTuna) <a href=https://github.com/cwal8202/Chill_Tuna><img src="https://img.shields.io/badge/ChillTuna-34A853?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
-  <h3>3rd Project (HaruCoach) <a href=https://github.com/onizuka-38/Haru_Coach><img src="https://img.shields.io/badge/HaruCoach-34A853?style=for-the-badge&logo=github&logoColor=black"/></a></h3>
-</div>
-
-
----
-
 <br>
 
 ### 🛠️ Tech Stack
