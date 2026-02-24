@@ -13,6 +13,7 @@
 
   🏆 <strong>Highlights</strong><br>
   • Participated in multiple AI competitions (Dacon, etc.) with awards and strong results<br>
+  • Predicting Freezing of Gait in Parkinson’s Disease Patients (Konkuk University) Oct 2023 – Sep 2024<br>
   • Completed <strong>KDT Enterprise-Tailored AI-X Program</strong> (824h, Apr 2025 – Sep 2025)<br>
   • Built an <strong>Oracle Healthcare Project</strong> (Oct 2025 – Nov 2025)<br><br>
   
