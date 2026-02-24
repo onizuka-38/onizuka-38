@@ -42,7 +42,7 @@
 
 <br>
 
-### 🛠️ 기술 스택 (Tech Stack)
+### 🛠️ Tech Stack
 
 | Category | Skills |
 | :---: | --- |
