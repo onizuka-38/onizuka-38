@@ -7,7 +7,8 @@
 <p align="left">
   Hello! I'm <strong>Donghyeon Park</strong>.<br>
   I am a developer dedicated to <strong>data analysis and machine learning</strong>, constantly exploring diverse languages and frameworks.<br>
-  With a background in Biomedical Engineering, I began my career as an embedded developer using C, and I am currently working as an <strong>AI Engineer</strong> primarily utilizing Python.<br><br>
+  With a background in Biomedical Engineering, I began my career as an embedded developer using C.<br>
+  Now, I am currently working as an <strong>AI Engineer</strong> primarily utilizing Python.<br><br>
 
 
   🏆 <strong>Highlights</strong><br>
