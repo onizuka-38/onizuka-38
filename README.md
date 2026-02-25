@@ -9,7 +9,6 @@
   I am a developer dedicated to <strong>data analysis and machine learning</strong>, constantly exploring diverse languages and frameworks.<br>
   With a background in Biomedical Engineering, I began my career as an embedded developer using C, and I am currently working as an <strong>ML / DL Engineer</strong> primarily utilizing Python.<br><br>
 
-  • Grass Foundation (March 2023 - Oct 2024)<br><br>
 
   🏆 <strong>Highlights</strong><br>
   • Participated in multiple AI competitions (Dacon, etc.) with awards and strong results<br>
