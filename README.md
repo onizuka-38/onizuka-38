@@ -22,7 +22,7 @@
   • <strong>Data & ML:</strong> Python, Pandas, NumPy, Matplotlib, scikit-learn<br>
   • <strong>DL:</strong> Training/validation pipelines, experimentation, evaluation (PyTorch/TensorFlow)<br>
   • <strong>DB:</strong> Oracle, MySQL<br>
-  • <strong>LLM:</strong> Vllm, HF<br>
+  • <strong>LLM:</strong> Vllm, Transformer<br>
   • <strong>Embedded:</strong> STM32-based systems (C)<br><br>
 
 </p>
