@@ -23,7 +23,7 @@
   • <strong>DL:</strong> Training/validation pipelines, experimentation, evaluation (PyTorch/TensorFlow)<br>
   • <strong>DB:</strong> Oracle, MySQL<br>
   • <strong>LLM:</strong> Vllm, Transformer<br>
-  • <strong>Embedded:</strong> STM32-based systems (C)<br><br>
+  • <strong>Embedded:</strong> C, STM32-based systems (MCU)<br><br>
 
 </p>
 
