@@ -16,14 +16,7 @@
   • Predicting Freezing of Gait in Parkinson’s Disease Patients (Konkuk University) Oct 2023 – Sep 2024<br>
   • Completed <strong>KDT Enterprise-Tailored AI-X Program</strong> (824h, Apr 2025 – Sep 2025)<br>
   • Built an Healthcare Project with <strong>Oracle Korea</strong> (Oct 2025 – Dec 2025)<br><br>
-  
 
-  💡 <strong>Skills</strong><br>
-  • <strong>Data & ML:</strong> Python, Pandas, NumPy, Matplotlib, scikit-learn<br>
-  • <strong>DL:</strong> Training/validation pipelines, experimentation, evaluation (PyTorch/TensorFlow)<br>
-  • <strong>DB:</strong> Oracle, MySQL<br>
-  • <strong>LLM:</strong> Vllm, Transformer<br>
-  • <strong>Embedded:</strong> C, STM32-based systems (MCU)<br><br>
 
 </p>
 
